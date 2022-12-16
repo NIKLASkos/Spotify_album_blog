@@ -1,0 +1,26 @@
+# flyctl launch added from albumit\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+albumit\node_modules
+albumit\.pnp
+albumit\**\.pnp.js
+
+# testing
+albumit\coverage
+
+# production
+albumit\build
+
+# misc
+albumit\**\.DS_Store
+albumit\**\.env.local
+albumit\**\.env.development.local
+albumit\**\.env.test.local
+albumit\**\.env.production.local
+
+albumit\**\npm-debug.log*
+albumit\**\yarn-debug.log*
+albumit\**\yarn-error.log*
+albumit\**\.env
+fly.toml
