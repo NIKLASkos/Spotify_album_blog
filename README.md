@@ -5,4 +5,3 @@ The app requires personal Spotify API ID to work. Here are some screenshots of t
 
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/106469217/208112996-9b00bba4-3394-4b5d-b809-b5bd4aabade3.png">
 
-<img width="189" alt="image" src="https://user-images.githubusercontent.com/106469217/208113108-ac62da21-3918-400c-b84a-a5c5368f2006.png">
